@@ -1,0 +1,110 @@
+*{
+	margin: 0; /* estos dos rangos que se pusieron son para que se elimine el margen que de origen tiene todo documento*/
+	padding: 0;
+}
+header{ /*estos rangos nos marcan el límite que queremos marcarle al header*/
+	width: 100%; /*nos delimita el largo de esta sección o lo que abarcará el contenido en esta sección dentro de la que mveremos cada elemento*/
+	height:	80px; /*este nos delimita el ancho de la sección*/
+}
+.header-nav{
+	font-family: arial;
+	font-size: 14px;
+	float: right;
+	margin-top: 1%;
+	margin-right: 50px;
+}
+.header-nav p{
+	display: inline-block;
+	margin-left: 10px;
+}
+.header-nav_cuadros{
+	float: right;
+	margin-left: 20px;
+}
+.imagen-central{
+	width: 30%;
+	height: 150px;
+	margin-left: 36%
+}
+.input-central_busqueda{
+	width: 35%;
+	height: 25px;
+	margin-left: 33%;
+	border-width: 1px;
+	border-color: #E0E4EA;
+	background-image: url(img/micro.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 9%;
+
+}
+.main-div_buttons{
+	margin-top: 20px;
+	text-align: center;
+	font-size: 16px;
+}
+.main-div_buttons button{
+	width: 180px;
+	height: 30px;
+	font-family: Arial;
+	font-size: 14px;
+	background-color: #F0F0F0;
+	border-color: #F0F0F0;
+	border: 0px;
+	padding: 
+}
+.ofrecido{
+	float: left;
+	margin-left: 35.5%;
+	margin-top: 20px;
+	font-family: arial;
+	font-size: 15px;
+}
+.zona{
+	font-family: arial;
+	font-size: 15px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+footer{
+	width: 100%;
+	height: 50px;
+	margin-top: 22%;
+	background-color: #F0F0F0;
+}
+footer section p{
+	display: inline-block;
+	margin-top: 15px;
+}
+.footer-section_derecha{
+	width: 50%;
+	font-size: 12px;
+	font-family: Arial;
+	color:gray;
+	float: left;
+}
+.footer-section_izquierda{
+	width: 50%;
+	font-size: 12px;
+	font-family: Arial;
+	color:gray;
+	float: right;
+	margin-top: 5px;
+}
+.footer-negocios{
+	margin-left: 30px;
+}
+.footer-acerca{
+	margin: 20px;
+}
+.footer-usar{
+	margin-left: 130px;
+}
+.footer-prefer{
+	margin-left: 115px;
+}
+.footer-	
+
+
+
